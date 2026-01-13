@@ -1,0 +1,14 @@
+--- EXTRATO INICIAL ---
+- Transferência: R$ 500,00
+- Transferência: R$ 35,00
+- Transferência: R$ 55,00
+- Transferência: R$ 100,00
+- Transferência: R$ 200,00
++ Recebimento: R$ 35,00
++ Recebimento: R$ 70,00
+- Transferência: R$ 730,00
+- Transferência com Crédito: R$ 100,00
+- Transferência com Crédito: R$ 5,00
+- Transferência com Crédito: R$ 20,00
+- Transferência com Crédito: R$ 4000,00
+- Transferência com Crédito: R$ 700,00
